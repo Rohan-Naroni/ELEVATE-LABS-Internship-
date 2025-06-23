@@ -65,11 +65,7 @@ A simple, interactive **console-based calculator** in Java that performs basic a
 
 enter which operation do you want to Perform
 
-Addition
-Subtraction
-Multiplication
-Division
-Exit
+1.Addition, 2.Subtraction, 3.Multiplication, 4.Division, 5.Exit
 3
 on how many numbers you want to perform operation
 4
