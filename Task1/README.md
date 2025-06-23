@@ -26,11 +26,11 @@ A simple, interactive **console-based calculator** in Java that performs basic a
 ## 🚀 How It Works
 
 1. User chooses an operation from the menu:
-    Addition
-    Subtraction
-    Multiplication
-    Division
-    Exit
+    -Addition
+    -Subtraction
+    -Multiplication
+    -Division
+    -Exit
 
 2. User enters how many numbers they want to calculate.
 3. Calculator performs the operation on all numbers using a loop.
